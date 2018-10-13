@@ -1,1 +1,0 @@
-# Simple-course-taken-System
